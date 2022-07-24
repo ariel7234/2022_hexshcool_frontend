@@ -6,7 +6,8 @@ body {
 
 h1 {
   font-size: 80px;
-  line-height: 1.1875;
+  line-height: 1.2;
+  padding-bottom: 24px;
 }
 h2 {
   font-size: 32px;
